@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Alarm by Date!</title>
-        //<link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
