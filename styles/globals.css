@@ -20,6 +20,14 @@ main {
   align-items: center;
 }
 
+/* 이미지 스타일 추가 */
+img {
+  display: block;
+  margin-top: 20px; /* 텍스트 아래 여백 추가 */
+  max-width: 100%;
+  height: auto;
+}
+
 code {
   background: #e2e8f0;
   border-radius: 5px;
