@@ -10,10 +10,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className="image-container">
         <Header title="Welcome to Alarm by Date!" />
+        <p className="text-overlay">여기에 원하는 텍스트 입력</p>
         <img src="/test.jpg" alt="테스트 이미지" />
-
+        
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
