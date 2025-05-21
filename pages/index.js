@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Alarm by Date!" />
         
         {/* 이미지를 텍스트 아래로 이동 */}
-        <img src="/test.jpg" alt="테스트 이미지" />
+        //<img src="/test.jpg" alt="테스트 이미지" />
         
         <p className="description">
           Get started by editing <code>pages/index.js</code>
