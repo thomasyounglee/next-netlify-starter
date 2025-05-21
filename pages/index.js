@@ -10,9 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="image-container">
+      <main>
         <Header title="Welcome to Alarm by Date!" />
-        <p className="text-overlay">여기에 원하는 텍스트 입력</p>
+        
+        {/* 이미지를 텍스트 아래로 이동 */}
         <img src="/test.jpg" alt="테스트 이미지" />
         
         <p className="description">
