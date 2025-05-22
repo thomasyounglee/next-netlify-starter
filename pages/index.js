@@ -16,12 +16,12 @@ export default function Home() {
         <section className="intro">
           <h1>Alarm by Date – ▶Smart Alarms for Important Moments◀</h1>
     <div className="intro-images">
-  <img src="/images/EN1.jpg" alt="Alarm screenshot 1" />
-  <img src="/images/EN2.jpg" alt="Alarm screenshot 2" />
-      <img src="/images/EN3.jpg" alt="Alarm screenshot 3" />
-      <img src="/images/EN4.jpg" alt="Alarm screenshot 4" />
-      <img src="/images/EN5.jpg" alt="Alarm screenshot 5" />
-      <img src="/images/EN6.jpg" alt="Alarm screenshot 6" />
+  <img src="/EN1.jpg" alt="Alarm screenshot 1" />
+  <img src="/EN2.jpg" alt="Alarm screenshot 2" />
+      <img src="/EN3.jpg" alt="Alarm screenshot 3" />
+      <img src="/EN4.jpg" alt="Alarm screenshot 4" />
+      <img src="/EN5.jpg" alt="Alarm screenshot 5" />
+      <img src="/EN6.jpg" alt="Alarm screenshot 6" />
 </div>
 
     
