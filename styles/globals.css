@@ -16,14 +16,13 @@ main {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
-/* 이미지 스타일 추가 */
+/* 이미지 스타일 */
 img {
   display: block;
-  margin-top: 20px; /* 텍스트 아래 여백 추가 */
+  margin-top: 20px;
   max-width: 100%;
   height: auto;
 }
@@ -35,12 +34,27 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
+/* 컨테이너 레이아웃 */
 .container {
-  width: 768px; /* 고정된 너비 */
-  margin: 0 auto; /* 가로 중앙 정렬 */
-  
+  width: 768px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+}
+
+/* 텍스트 중앙 정렬 */
+.intro,
+.why-love,
+.key-features,
+.perfect-for,
+.privacy,
+.final-thoughts,
+.contact {
+  text-align: center;
+}
+
+/* 제목도 중앙 정렬 */
+h1, h2, h3 {
+  text-align: center;
 }
