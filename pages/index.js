@@ -85,9 +85,9 @@ export default function Home() {
           <p>We’re always listening to feedback and working on new features to make your experience even better.</p>
         </section>
 
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        {/* <p className="description">
+  Get started by editing <code>pages/index.js</code>
+</p> */}
       </main>
 
       <Footer />
