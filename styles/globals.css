@@ -38,7 +38,7 @@ code {
 .container {
   width: 768px; /* 고정된 너비 */
   margin: 0 auto; /* 가로 중앙 정렬 */
-  height: 100vh;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
