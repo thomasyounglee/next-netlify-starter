@@ -15,6 +15,16 @@ export default function Home() {
 
         <section className="intro">
           <h1>Alarm by Date – ▶Smart Alarms for Important Moments◀</h1>
+    <div className="intro-images">
+  <img src="/images/EN1.jpg" alt="Alarm screenshot 1" />
+  <img src="/images/EN2.jpg" alt="Alarm screenshot 2" />
+      <img src="/images/EN3.jpg" alt="Alarm screenshot 3" />
+      <img src="/images/EN4.jpg" alt="Alarm screenshot 4" />
+      <img src="/images/EN5.jpg" alt="Alarm screenshot 5" />
+      <img src="/images/EN6.jpg" alt="Alarm screenshot 6" />
+</div>
+
+    
           <p>Never miss another important moment!</p>
           <p>
             With Alarm by Date, you can set alarms based not just on time, but on exact dates — perfect for keeping track of everything from birthdays and deadlines to workouts and study sessions.
