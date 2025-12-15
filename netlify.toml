@@ -2,4 +2,4 @@
   command = "npm run build"
   publish = ".next"
 [build.environment]
-  NODE_VERSION = "20.11.1"  
+  NODE_VERSION = "20.9.0"  
